@@ -27,7 +27,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd PythonProjects
+  cd "PythonProjects/Car Racing Game"
 ```
 
 Install packages
